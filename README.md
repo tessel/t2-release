@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/tessel/t2-release.svg?branch=master)](https://travis-ci.org/tessel/t2-release)
+ [![Build Status](https://travis-ci.org/tessel/t2-release.svg?branch=master)](https://travis-ci.org/tessel/t2-release)
+ [![Code of conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/tessel/project/blob/master/CONDUCT.md)
 
 ## What is this?
 This is a script to deploy new builds to AWS. Currently, it will only work for those with Tessel GCloud and AWS access (which is pretty much just @johnnyman727).
